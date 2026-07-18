@@ -175,7 +175,7 @@ Creates the AWS infrastructure defined in the Terraform configuration.
 ### Route Tables
 
 <p align="center">
-<img src="screenshots/Route-tables.png" width="900">
+<img src="screenshots/Route-tabels.png" width="900">
 </p>
 
 ---
