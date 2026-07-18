@@ -27,7 +27,7 @@ The entire infrastructure was deployed and managed using Terraform, allowing inf
 ## 🏗️ Architecture
 
 <p align="center">
-<img src="architecture/architecture-diagram.png" width="900">
+<img src="architecture/architecture diagram.png" width="900">
 </p>
 
 ---
